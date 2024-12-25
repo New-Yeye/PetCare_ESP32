@@ -1,0 +1,7 @@
+adafruit/Adafruit Unified Sensor
+bblanchon/ArduinoJson@^6.18.3
+adafruit/Adafruit GFX Library
+adafruit/Adafruit SSD1306
+adafruit/DHT sensor library@^1.4.3
+bogde/HX711
+knolleary/PubSubClient
